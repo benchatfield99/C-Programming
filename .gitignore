@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+.idea/
+colour_themes.conf
+*.cbp
+*.depend
+*.layout
+cmake-build-debug/
+*.rar
+

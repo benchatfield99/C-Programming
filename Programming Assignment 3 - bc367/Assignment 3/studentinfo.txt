@@ -1,0 +1,8 @@
+John   Doe     21        78           67             40              16           20
+Jane   Doe     23        58           47             50              26           30
+Tom    Doe     19        68           57             20              66           50
+Beth   Doe     20        38           57             60              56           60
+Jason  Doe     21        78           77             70              86           80
+Sandra Doe     22        98           17             60              36           50
+Tim    Doe     25        28           27             50              46           20
+Sarah  Doe     26        18           97             30              26           10
